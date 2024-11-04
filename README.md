@@ -2,7 +2,7 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
-Projeto desenvolvido como atividade da disciplinas de redes nos primeiros semestres do curso TADS.
+Projeto desenvolvido como atividade da disciplinas de redes do curso de TI.
 
 ![Demonstração da Aplicação](./image/demo.png)
 
