@@ -4,7 +4,7 @@
 
 Projeto desenvolvido como atividade da disciplinas de Redes durante o curso de TI.
 
-![Demonstração da Aplicação](./image/demo.png)
+![Demonstração da Aplicação](./image/previa.png)
 
 ## Aplicação
 ### Tecnologias
