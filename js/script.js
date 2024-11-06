@@ -15,7 +15,7 @@ function acessar_inputs() {
     v4 <= 255
   ) {
     document.getElementById("printBin").innerHTML =
-      "IP em binário:" +
+      "IP em binário: " +
       printBin(v1) +
       "." +
       printBin(v2) +
